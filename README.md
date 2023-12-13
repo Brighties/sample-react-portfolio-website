@@ -15,7 +15,6 @@ This is a solution to the [News homepage challenge on Frontend Mentor](https://w
   - [What I learned](#what-i-learned)
   - [Continued development](#continued-development)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
 
 ## Overview
 
@@ -33,7 +32,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Click here](https://github.com/Brighties/sample-react-portfolio-website)
-- Live Site URL: [Click Here]()
+- Live Site URL: [Click Here](https://jocular-torrone-8f126f.netlify.app/)
 
 ## My process
 
